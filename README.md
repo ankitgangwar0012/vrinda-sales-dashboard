@@ -7,7 +7,7 @@ An Excel-based sales analysis project exploring Vrinda Store's 2022 order data. 
 This project uses Microsoft Excel to turn raw order-level data into a visual sales report. Interactive dashboard filters help users explore results by month, sales channel, and product category.
 
 ## Screenshots
-![Vrinda Dashboard](screenshot/vrinda_dashboard.png)
+![Vrinda Dashboard](Screenshot/vrinda_dashboard.png)
 
 
 ## Tools and Skills
